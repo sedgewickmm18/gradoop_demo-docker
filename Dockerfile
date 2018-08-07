@@ -15,3 +15,4 @@ expose 2342
 
 copy docker_start.sh /
 cmd /docker_start.sh
+
